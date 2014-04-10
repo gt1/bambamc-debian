@@ -1,3 +1,9 @@
+bambamc (0.0.48) unstable; urgency=low
+
+  * no change version bump for changing the package build type 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 10 Apr 2014 20:42:18 +0100
+
 bambamc (0.0.47+0) unstable; urgency=low
 
   * add checks for _mkdir 
