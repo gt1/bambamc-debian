@@ -1,3 +1,9 @@
+bambamc (0.0.47-0) unstable; urgency=low
+
+  * add checks for _mkdir 
+
+ -- German Tischler <baer@german-pc>  Thu, 10 Apr 2014 19:38:23 +0100
+
 bambamc (0.0.46-0) unstable; urgency=low
 
   * change debian sub version number to 0 
